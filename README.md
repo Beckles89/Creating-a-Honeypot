@@ -241,5 +241,3 @@ This setup is for educational purposes **only** and should **not be exposed to p
 - Increase RAM to 2GB
 - Use minimal installation
 ````
-
-Would you like that?
